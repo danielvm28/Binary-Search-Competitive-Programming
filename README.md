@@ -1,4 +1,4 @@
-# Binary-Search-Competitive-Programming
+# Binary Search - Competitive Programming
 
 Solution to four problems of Competitive programming using Binary Search:
 * Online Judge - Exact Sum
